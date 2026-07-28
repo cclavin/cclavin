@@ -1,15 +1,19 @@
 ### Hey, I'm Caleb.
 
-  Ops background, terminal addict, accidental Go developer.
+  Technical support background, terminal addict, accidental Go developer.
 
   **Shipping:**
-  - [PIOS](https://github.com/cclavin/PIOS) — an execution contract for AI-assisted
+  - [PIOS](https://github.com/cclavin/PIOS) – an execution contract for AI-assisted
     projects. Go CLI + MCP server. `brew install cclavin/tap/pios`
 
   **Building:**
-  - [staXscale](https://github.com/staXscale) — automated web hosting provisioning
-  - ESA — evolutionary code optimizer that runs in Docker sandboxes *(coming soon)*
+  - [staXscale](https://github.com/staXscale) – automated web hosting provisioning
+  - ESA – evolutionary code optimizer that runs in Docker sandboxes *(coming soon)*
 
-  I came up through operations — front-end work, then cloud infrastructure,
-  now backend tooling. Still learning, always building. Usually both at the
-  same time.
+  **Contributed:**
+  - [odysseus](https://github.com/odysseus-dev/odysseus) (62k★) – merged a fix for
+    the cookbook panel rendering
+
+  I came up through technical support – production escalations, DNS/API debugging,
+  front-end fixes – then cloud infrastructure, now backend and AI-agent tooling.
+  Still learning, always building. Usually both at the same time.

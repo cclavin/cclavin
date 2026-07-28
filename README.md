@@ -2,13 +2,15 @@
 
   Technical support background, terminal addict, accidental Go developer.
 
-  **Shipping:**
+  **Released:**
   - [PIOS](https://github.com/cclavin/PIOS) – an execution contract for AI-assisted
     projects. Go CLI + MCP server. `brew install cclavin/tap/pios`
+  - [ESA](https://github.com/cclavin/esa) – container-first evolutionary optimizer;
+    mutates one target file inside Docker sandboxes, keeps only harness-verified
+    improvements. `go install github.com/cclavin/esa/cmd/esa@latest`
 
   **Building:**
   - [staXscale](https://github.com/staXscale) – automated web hosting provisioning
-  - ESA – evolutionary code optimizer that runs in Docker sandboxes *(coming soon)*
 
   **Contributed:**
   - [odysseus](https://github.com/odysseus-dev/odysseus) (62k★) – merged a fix for

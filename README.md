@@ -1,6 +1,6 @@
 ### Hey, I'm Caleb.
 
-  Technical support background, terminal addict, accidental Go developer.
+  Technical support background, terminal addict, Go developer.
 
   **Released:**
   - [PIOS](https://github.com/cclavin/PIOS) – an execution contract for AI-assisted
@@ -10,7 +10,8 @@
     improvements. `go install github.com/cclavin/esa/cmd/esa@latest`
 
   **Building:**
-  - [staXscale](https://github.com/staXscale) – automated web hosting provisioning
+  - [staXscale](https://github.com/staXscale) – automated GCP hosting platform;
+    built and run solo, live in production
 
   **Contributed:**
   - [odysseus](https://github.com/odysseus-dev/odysseus) (62k★) – merged a fix for

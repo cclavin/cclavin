@@ -14,7 +14,9 @@
     built and run solo, live in production
 
   **Contributed:**
-  - [odysseus](https://github.com/odysseus-dev/odysseus) (62k★) – merged a fix for
+  - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) ([37k★](https://github.com/Crosstalk-Solutions/project-nomad/stargazers)) – merged a CI fix
+    that catches stale download URLs automatically
+  - [odysseus](https://github.com/odysseus-dev/odysseus) ([87k★](https://github.com/odysseus-dev/odysseus/stargazers)) – merged a fix for
     the cookbook panel rendering
 
   I came up through technical support – production escalations, DNS/API debugging,
